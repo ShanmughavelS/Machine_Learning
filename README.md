@@ -39,3 +39,11 @@ The experiment is conducted using the **MNIST** dataset.
 
 ---
 
+## Getting Started
+Use Google Colab for more flexible use and which can also supports more intense coding tasks without need to worry about low specifiication systems. Or else need to install few dependencies to run the code 
+
+### Install Dependencies
+
+```bash
+pip install tensorflow matplotlib numpy
+
