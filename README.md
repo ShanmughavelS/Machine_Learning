@@ -5,6 +5,13 @@ A practical study of Convolutional Neural Networks (CNNs), focusing on how kerne
 -  [Final_Tutorial PDF](CNN_Kernel_size_comparison.pdf)
 -  [Jupyter Notebook](Machine_Learning_11Dec.ipynb)
 -  [Figures Folder](Figures/)
+## Getting Started
+Use Google Colab for more flexible use and which can also supports more intense coding tasks without need to worry about low specifiication systems. Or else need to install few dependencies to run the code 
+
+### Install Dependencies
+
+```bash
+pip install tensorflow matplotlib numpy
 
 # CNN Kernel Size Comparison on MNIST  
 A tutorial and experiment demonstrating how convolutional kernel size (3×3, 5×5, 7×7) affects feature extraction, learned filters, and model performance in Convolutional Neural Networks (CNNs).
@@ -39,11 +46,5 @@ The experiment is conducted using the **MNIST** dataset.
 
 ---
 
-## Getting Started
-Use Google Colab for more flexible use and which can also supports more intense coding tasks without need to worry about low specifiication systems. Or else need to install few dependencies to run the code 
 
-### Install Dependencies
-
-```bash
-pip install tensorflow matplotlib numpy
 
