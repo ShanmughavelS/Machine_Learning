@@ -39,5 +39,3 @@ The experiment is conducted using the **MNIST** dataset.
 
 ---
 
-## 🗂 Repository Structure
-
