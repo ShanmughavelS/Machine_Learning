@@ -4,4 +4,4 @@ A practical study of Convolutional Neural Networks (CNNs), focusing on how kerne
 
 -  [Final Tutorial PDF](CNN Kernel size comparison.pdf)
 -  [Jupyter Notebook](Machine_Learning_11Dec.ipynb)
--  [Figures Folder](figures/)
+-  [Figures Folder](Figures/)
