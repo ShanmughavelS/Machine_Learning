@@ -13,7 +13,7 @@ Use Google Colab for more flexible use and which can also supports more intense 
 
 ```bash
 pip install tensorflow matplotlib numpy
-
+---
 # CNN Kernel Size Comparison on MNIST  
 A tutorial and experiment demonstrating how convolutional kernel size (3×3, 5×5, 7×7) affects feature extraction, learned filters, and model performance in Convolutional Neural Networks (CNNs).
 
